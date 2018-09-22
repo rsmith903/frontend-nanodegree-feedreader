@@ -1,4 +1,4 @@
-1)Project Details
+1) Project Details
 
 *This is "Feed Reader Testing" Project, a project from Udacity's "Front End Developer Nanodegree Program."
 
